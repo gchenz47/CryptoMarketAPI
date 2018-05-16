@@ -1,0 +1,40 @@
+
+
+body {
+  font-size: 1.1em;
+  letter-spacing: 0.01em;
+  line-height: 1.45em;
+  color: #33475b;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 500;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.converter {
+  word-wrap: break-word;
+}
+
+.chart-container{
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+  justify-content: center;
+  font-size: 0.7em;
+  position: relative;
+  height:40vh;
+  width:80vw;
+  padding-top: 5em;
+}
+
+.zoom{
+  
+}
+.chartPeriod_date{
+  padding-left: 4.3em;
+}
